@@ -1,2 +1,4 @@
 rootProject.name = "Submodule Project"
 include ':app'
+include ':gitSubmoduleNode:node:app'
+include ':gitSubmoduleNode2:node:app'

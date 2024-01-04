@@ -1,3 +1,6 @@
 [submodule "project/gitSubmoduleNode"]
 	path = project/gitSubmoduleNode
 	url = git@github.com:lzq879069670/gitSubmoduleNode.git
+[submodule "project/gitSubmoduleNode2"]
+	path = project/gitSubmoduleNode2
+	url = git@github.com:lzq879069670/gitSubmoduleNode2.git
