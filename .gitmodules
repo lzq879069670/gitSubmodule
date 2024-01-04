@@ -1,0 +1,3 @@
+[submodule "project/gitSubmoduleNode"]
+	path = project/gitSubmoduleNode
+	url = git@github.com:lzq879069670/gitSubmoduleNode.git
